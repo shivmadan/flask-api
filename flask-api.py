@@ -7,3 +7,7 @@ def hello():
 
 if __name__ == '__main__':
     app.run(debug=True)
+
+# @app.route('/default/<name>')
+#     def default(name):
+#         return  
